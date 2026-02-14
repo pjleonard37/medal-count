@@ -1,0 +1,2643 @@
+{
+  "2014": {
+    "FI": {
+      "gold": 2,
+      "silver": 7,
+      "bronze": 24,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 10,
+      "silver": 30,
+      "bronze": 24,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 1,
+      "silver": 4,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 59,
+      "silver": 22,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 8,
+      "silver": 32,
+      "bronze": 11,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 6,
+      "silver": 4,
+      "bronze": 20,
+      "historical": false,
+      "display_name": null
+    },
+    "RU": {
+      "gold": 33,
+      "silver": 22,
+      "bronze": 13,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "DE": {
+      "gold": 15,
+      "silver": 12,
+      "bronze": 9,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "NO": {
+      "gold": 18,
+      "silver": 5,
+      "bronze": 13,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 4,
+      "silver": 4,
+      "bronze": 10,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 13,
+      "silver": 7,
+      "bronze": 9,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 4,
+      "silver": 12,
+      "bronze": 11,
+      "historical": false,
+      "display_name": null
+    },
+    "AU": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "PL": {
+      "gold": 4,
+      "silver": 4,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "CN": {
+      "gold": 3,
+      "silver": 4,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "BY": {
+      "gold": 5,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "LV": {
+      "gold": 0,
+      "silver": 5,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "UA": {
+      "gold": 4,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "SI": {
+      "gold": 2,
+      "silver": 2,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 12,
+      "historical": false,
+      "display_name": null
+    },
+    "KR": {
+      "gold": 7,
+      "silver": 5,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 1,
+      "silver": 4,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "HR": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "SK": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 2,
+      "silver": 7,
+      "bronze": 2,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "KZ": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1992": {
+    "NO": {
+      "gold": 9,
+      "silver": 10,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 3,
+      "silver": 2,
+      "bronze": 7,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 4,
+      "silver": 9,
+      "bronze": 8,
+      "historical": false,
+      "display_name": null
+    },
+    "RU": {
+      "gold": 35,
+      "silver": 10,
+      "bronze": 14,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "FR": {
+      "gold": 5,
+      "silver": 6,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 9,
+      "silver": 10,
+      "bronze": 10,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 5,
+      "silver": 28,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 27,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "DE": {
+      "gold": 14,
+      "silver": 17,
+      "bronze": 7,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "US": {
+      "gold": 5,
+      "silver": 7,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "NZ": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 6,
+      "silver": 1,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "ES": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "KP": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "KR": {
+      "gold": 5,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CN": {
+      "gold": 0,
+      "silver": 3,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1994": {
+    "NO": {
+      "gold": 8,
+      "silver": 17,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 3,
+      "silver": 5,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 4,
+      "silver": 8,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 29,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 14,
+      "silver": 6,
+      "bronze": 12,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 23,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 3,
+      "silver": 29,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 18,
+      "silver": 10,
+      "bronze": 12,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "FR": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 10,
+      "historical": false,
+      "display_name": null
+    },
+    "UA": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 6,
+      "silver": 8,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "RU": {
+      "gold": 19,
+      "silver": 13,
+      "bronze": 4,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "AU": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "KR": {
+      "gold": 7,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CN": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "UZ": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "SI": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 2,
+      "silver": 3,
+      "bronze": 7,
+      "historical": false,
+      "display_name": null
+    },
+    "BY": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "KZ": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "2002": {
+    "NO": {
+      "gold": 23,
+      "silver": 11,
+      "bronze": 7,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 26,
+      "silver": 23,
+      "bronze": 12,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "RU": {
+      "gold": 6,
+      "silver": 5,
+      "bronze": 27,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "SE": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 24,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 7,
+      "silver": 5,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 3,
+      "silver": 7,
+      "bronze": 14,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 5,
+      "silver": 5,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 11,
+      "silver": 58,
+      "bronze": 15,
+      "historical": false,
+      "display_name": null
+    },
+    "CN": {
+      "gold": 2,
+      "silver": 5,
+      "bronze": 9,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 52,
+      "silver": 7,
+      "bronze": 15,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 4,
+      "silver": 11,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 3,
+      "silver": 4,
+      "bronze": 13,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 3,
+      "silver": 5,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "AU": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "KR": {
+      "gold": 5,
+      "silver": 2,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 5,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "SI": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "BY": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "HR": {
+      "gold": 3,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "EE": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "PL": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 0,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "BG": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "2006": {
+    "NO": {
+      "gold": 2,
+      "silver": 9,
+      "bronze": 12,
+      "historical": false,
+      "display_name": null
+    },
+    "RU": {
+      "gold": 16,
+      "silver": 12,
+      "bronze": 13,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "DE": {
+      "gold": 23,
+      "silver": 25,
+      "bronze": 6,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "CA": {
+      "gold": 30,
+      "silver": 28,
+      "bronze": 11,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 9,
+      "silver": 11,
+      "bronze": 32,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 0,
+      "silver": 34,
+      "bronze": 7,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 35,
+      "silver": 21,
+      "bronze": 8,
+      "historical": false,
+      "display_name": null
+    },
+    "KR": {
+      "gold": 14,
+      "silver": 3,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 11,
+      "silver": 0,
+      "bronze": 14,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 5,
+      "silver": 7,
+      "bronze": 9,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 3,
+      "silver": 2,
+      "bronze": 10,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 24,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "AU": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 16,
+      "silver": 7,
+      "bronze": 7,
+      "historical": false,
+      "display_name": null
+    },
+    "BY": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 3,
+      "silver": 2,
+      "bronze": 8,
+      "historical": false,
+      "display_name": null
+    },
+    "CN": {
+      "gold": 2,
+      "silver": 5,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "UA": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "HR": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "PL": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "BG": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "LV": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "EE": {
+      "gold": 3,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "SK": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1952": {
+    "NO": {
+      "gold": 7,
+      "silver": 6,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 16,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 4,
+      "silver": 25,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 23,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 0,
+      "silver": 3,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 8,
+      "silver": 2,
+      "bronze": 2,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "IT": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 6,
+      "silver": 4,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 2,
+      "silver": 4,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "HU": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1960": {
+    "NO": {
+      "gold": 3,
+      "silver": 6,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 5,
+      "silver": 3,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "RU": {
+      "gold": 7,
+      "silver": 7,
+      "bronze": 28,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "US": {
+      "gold": 19,
+      "silver": 4,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 3,
+      "silver": 17,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 5,
+      "silver": 2,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 4,
+      "silver": 4,
+      "bronze": 1,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "FR": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "AT": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "PL": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1924": {
+    "US": {
+      "gold": 1,
+      "silver": 10,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 1,
+      "silver": 8,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 16,
+      "silver": 4,
+      "bronze": 11,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 10,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 8,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 3,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 4,
+      "silver": 7,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 4,
+      "silver": 8,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "NP": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 9,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "AU": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "BE": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "IN": {
+      "gold": 7,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1928": {
+    "SE": {
+      "gold": 2,
+      "silver": 13,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 6,
+      "silver": 4,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 12,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 0,
+      "silver": 4,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "CA": {
+      "gold": 12,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 6,
+      "silver": 6,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 5,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "GB": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "BE": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1988": {
+    "CH": {
+      "gold": 8,
+      "silver": 7,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 7,
+      "silver": 0,
+      "bronze": 23,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 14,
+      "silver": 22,
+      "bronze": 10,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "AT": {
+      "gold": 3,
+      "silver": 5,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 5,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "RU": {
+      "gold": 40,
+      "silver": 14,
+      "bronze": 12,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "US": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 7,
+      "silver": 22,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 0,
+      "silver": 6,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "RS": {
+      "gold": 0,
+      "silver": 5,
+      "bronze": 1,
+      "historical": true,
+      "display_name": "RS*"
+    },
+    "NL": {
+      "gold": 3,
+      "silver": 2,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1968": {
+    "RU": {
+      "gold": 26,
+      "silver": 6,
+      "bronze": 5,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "SE": {
+      "gold": 3,
+      "silver": 7,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 8,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 11,
+      "silver": 9,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 3,
+      "silver": 3,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 3,
+      "silver": 8,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 4,
+      "silver": 5,
+      "bronze": 7,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "CH": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 7,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 18,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 1,
+      "silver": 19,
+      "bronze": 1,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "FR": {
+      "gold": 4,
+      "silver": 3,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 1,
+      "silver": 5,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "RO": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "2010": {
+    "DE": {
+      "gold": 15,
+      "silver": 24,
+      "bronze": 15,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "CA": {
+      "gold": 67,
+      "silver": 15,
+      "bronze": 8,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 6,
+      "silver": 0,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 2,
+      "silver": 6,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 0,
+      "silver": 5,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 12,
+      "silver": 63,
+      "bronze": 22,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 46,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 16,
+      "silver": 14,
+      "bronze": 9,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 7,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "AU": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 4,
+      "silver": 1,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "RU": {
+      "gold": 6,
+      "silver": 5,
+      "bronze": 14,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "BY": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "LV": {
+      "gold": 0,
+      "silver": 3,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 11,
+      "silver": 9,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "HR": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 11,
+      "silver": 3,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "CN": {
+      "gold": 9,
+      "silver": 3,
+      "bronze": 7,
+      "historical": false,
+      "display_name": null
+    },
+    "KR": {
+      "gold": 6,
+      "silver": 10,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "SK": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "KZ": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "PL": {
+      "gold": 1,
+      "silver": 3,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "SI": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "EE": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1972": {
+    "US": {
+      "gold": 3,
+      "silver": 18,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 2,
+      "silver": 8,
+      "bronze": 7,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 4,
+      "silver": 3,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 9,
+      "silver": 5,
+      "bronze": 16,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "CZ": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 19,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "RU": {
+      "gold": 36,
+      "silver": 6,
+      "bronze": 3,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "IT": {
+      "gold": 3,
+      "silver": 5,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 7,
+      "silver": 3,
+      "bronze": 7,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "ES": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "PL": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 0,
+      "silver": 9,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1980": {
+    "SE": {
+      "gold": 3,
+      "silver": 0,
+      "bronze": 20,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 16,
+      "silver": 13,
+      "bronze": 18,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "RU": {
+      "gold": 18,
+      "silver": 29,
+      "bronze": 7,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "NO": {
+      "gold": 1,
+      "silver": 5,
+      "bronze": 9,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 2,
+      "silver": 4,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 24,
+      "silver": 4,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 0,
+      "silver": 3,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 3,
+      "silver": 2,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "FI": {
+      "gold": 1,
+      "silver": 5,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "BG": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "HU": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1984": {
+    "SE": {
+      "gold": 7,
+      "silver": 2,
+      "bronze": 21,
+      "historical": false,
+      "display_name": null
+    },
+    "RU": {
+      "gold": 29,
+      "silver": 15,
+      "bronze": 12,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "DE": {
+      "gold": 16,
+      "silver": 14,
+      "bronze": 11,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "US": {
+      "gold": 4,
+      "silver": 5,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 6,
+      "silver": 5,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 0,
+      "silver": 24,
+      "bronze": 4,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "CA": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 2,
+      "silver": 2,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "RS": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": true,
+      "display_name": "RS*"
+    },
+    "IT": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 4,
+      "silver": 3,
+      "bronze": 12,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1936": {
+    "CH": {
+      "gold": 4,
+      "silver": 6,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 7,
+      "silver": 8,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 12,
+      "silver": 1,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 4,
+      "silver": 3,
+      "bronze": 0,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "SE": {
+      "gold": 2,
+      "silver": 2,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 14,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 0,
+      "silver": 13,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 4,
+      "silver": 2,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "HU": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1998": {
+    "RU": {
+      "gold": 14,
+      "silver": 32,
+      "bronze": 6,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "IT": {
+      "gold": 3,
+      "silver": 9,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 13,
+      "silver": 15,
+      "bronze": 12,
+      "historical": false,
+      "display_name": null
+    },
+    "KR": {
+      "gold": 6,
+      "silver": 4,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "CN": {
+      "gold": 0,
+      "silver": 9,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 6,
+      "silver": 5,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 12,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 22,
+      "silver": 12,
+      "bronze": 10,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "GB": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 14,
+      "silver": 28,
+      "bronze": 7,
+      "historical": false,
+      "display_name": null
+    },
+    "BY": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 25,
+      "silver": 4,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 21,
+      "silver": 1,
+      "bronze": 1,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "FI": {
+      "gold": 2,
+      "silver": 7,
+      "bronze": 49,
+      "historical": false,
+      "display_name": null
+    },
+    "DK": {
+      "gold": 0,
+      "silver": 5,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 5,
+      "silver": 4,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "BG": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 3,
+      "silver": 5,
+      "bronze": 12,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 8,
+      "silver": 1,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "UA": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "KZ": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "AU": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "BE": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1956": {
+    "US": {
+      "gold": 2,
+      "silver": 19,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 6,
+      "silver": 2,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 2,
+      "silver": 6,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "RU": {
+      "gold": 26,
+      "silver": 5,
+      "bronze": 6,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "CA": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 18,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 2,
+      "silver": 4,
+      "bronze": 9,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 5,
+      "silver": 3,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "PL": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "FI": {
+      "gold": 5,
+      "silver": 6,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "JP": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "HU": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1976": {
+    "RU": {
+      "gold": 38,
+      "silver": 7,
+      "bronze": 11,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "DE": {
+      "gold": 14,
+      "silver": 13,
+      "bronze": 37,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "CZ": {
+      "gold": 0,
+      "silver": 19,
+      "bronze": 0,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "CH": {
+      "gold": 1,
+      "silver": 6,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NL": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 3,
+      "silver": 6,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 5,
+      "silver": 10,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 3,
+      "silver": 3,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 2,
+      "silver": 2,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1964": {
+    "RU": {
+      "gold": 30,
+      "silver": 8,
+      "bronze": 9,
+      "historical": true,
+      "display_name": "Russia*"
+    },
+    "US": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 4,
+      "silver": 2,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 6,
+      "silver": 21,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 8,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 3,
+      "silver": 4,
+      "bronze": 3,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "FR": {
+      "gold": 3,
+      "silver": 4,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "NO": {
+      "gold": 3,
+      "silver": 6,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 17,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "NL": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "GB": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 5,
+      "silver": 9,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "KP": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 3,
+      "silver": 7,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1948": {
+    "GB": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 4,
+      "silver": 5,
+      "bronze": 19,
+      "historical": false,
+      "display_name": null
+    },
+    "US": {
+      "gold": 6,
+      "silver": 4,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "BE": {
+      "gold": 2,
+      "silver": 4,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "IT": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "CZ": {
+      "gold": 0,
+      "silver": 17,
+      "bronze": 0,
+      "historical": true,
+      "display_name": "CZ*"
+    },
+    "NO": {
+      "gold": 4,
+      "silver": 3,
+      "bronze": 6,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 2,
+      "silver": 1,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 13,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 7,
+      "silver": 3,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 1,
+      "silver": 3,
+      "bronze": 4,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 1,
+      "silver": 6,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    },
+    "HU": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    }
+  },
+  "1932": {
+    "US": {
+      "gold": 10,
+      "silver": 21,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "DE": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 14,
+      "historical": true,
+      "display_name": "Germany*"
+    },
+    "NO": {
+      "gold": 3,
+      "silver": 4,
+      "bronze": 3,
+      "historical": false,
+      "display_name": null
+    },
+    "FR": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "AT": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "CH": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "CA": {
+      "gold": 14,
+      "silver": 1,
+      "bronze": 5,
+      "historical": false,
+      "display_name": null
+    },
+    "SE": {
+      "gold": 1,
+      "silver": 2,
+      "bronze": 0,
+      "historical": false,
+      "display_name": null
+    },
+    "FI": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1,
+      "historical": false,
+      "display_name": null
+    },
+    "HU": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2,
+      "historical": false,
+      "display_name": null
+    }
+  }
+}

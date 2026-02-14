@@ -1,6 +1,4 @@
 # Data files (users will generate these themselves)
-data/summer_medals.json
-data/winter_medals.json
 data/raw/athlete_events.csv
 
 # macOS
