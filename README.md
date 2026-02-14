@@ -156,7 +156,7 @@ Countries with historical medals are marked with an asterisk (*) in popups.
 - **Smart binning**: Custom quantile breaks (15%, 35%, 55%, 70%, 82%, 91%, 96%, 99%) for better visual distribution
 - **Debounced updates**: 150ms delay prevents excessive re-renders during slider interaction
 - **Accessible controls**: ARIA labels and clear visual indicators
-- **Mapbox Standard Style**: Monochrome theme with Natural Earth projection
+- **Mapbox Standard Style**: Monochrome theme with Natural Earth projection 
 
 ## Technologies
 
