@@ -1,0 +1,176 @@
+{
+    "description": "IOC (International Olympic Committee) to ISO 3166-1 Alpha-2 country code mapping",
+    "version": "1.0",
+    "note": "This mapping handles current and historical Olympic country codes",
+    "mappings": {
+        "USA": {
+            "iso": "US",
+            "name": "United States",
+            "historical": false
+        },
+        "GBR": {
+            "iso": "GB",
+            "name": "Great Britain",
+            "historical": false
+        },
+        "FRA": {
+            "iso": "FR",
+            "name": "France",
+            "historical": false
+        },
+        "GER": {
+            "iso": "DE",
+            "name": "Germany",
+            "historical": false
+        },
+        "CHN": {
+            "iso": "CN",
+            "name": "China",
+            "historical": false
+        },
+        "JPN": {
+            "iso": "JP",
+            "name": "Japan",
+            "historical": false
+        },
+        "AUS": {
+            "iso": "AU",
+            "name": "Australia",
+            "historical": false
+        },
+        "CAN": {
+            "iso": "CA",
+            "name": "Canada",
+            "historical": false
+        },
+        "ITA": {
+            "iso": "IT",
+            "name": "Italy",
+            "historical": false
+        },
+        "BRA": {
+            "iso": "BR",
+            "name": "Brazil",
+            "historical": false
+        },
+        "RUS": {
+            "iso": "RU",
+            "name": "Russia",
+            "historical": false
+        },
+        "ESP": {
+            "iso": "ES",
+            "name": "Spain",
+            "historical": false
+        },
+        "KOR": {
+            "iso": "KR",
+            "name": "South Korea",
+            "historical": false
+        },
+        "NED": {
+            "iso": "NL",
+            "name": "Netherlands",
+            "historical": false
+        },
+        "SWE": {
+            "iso": "SE",
+            "name": "Sweden",
+            "historical": false
+        },
+        "NOR": {
+            "iso": "NO",
+            "name": "Norway",
+            "historical": false
+        },
+        "DEN": {
+            "iso": "DK",
+            "name": "Denmark",
+            "historical": false
+        },
+        "FIN": {
+            "iso": "FI",
+            "name": "Finland",
+            "historical": false
+        },
+        "POL": {
+            "iso": "PL",
+            "name": "Poland",
+            "historical": false
+        },
+        "ROU": {
+            "iso": "RO",
+            "name": "Romania",
+            "historical": false
+        },
+        "URS": {
+            "iso": "RU",
+            "name": "USSR",
+            "historical": true,
+            "display_name": "USSR (1952-1988)",
+            "note": "Medals mapped to Russia as primary successor state"
+        },
+        "GDR": {
+            "iso": "DE",
+            "name": "East Germany",
+            "historical": true,
+            "display_name": "East Germany (1968-1988)",
+            "note": "Merged with West Germany in 1990"
+        },
+        "FRG": {
+            "iso": "DE",
+            "name": "West Germany",
+            "historical": true,
+            "display_name": "West Germany (1968-1988)",
+            "note": "Merged with East Germany in 1990"
+        },
+        "TCH": {
+            "iso": "CZ",
+            "name": "Czechoslovakia",
+            "historical": true,
+            "display_name": "Czechoslovakia (1920-1992)",
+            "note": "Split into Czech Republic and Slovakia in 1993"
+        },
+        "YUG": {
+            "iso": "RS",
+            "name": "Yugoslavia",
+            "historical": true,
+            "display_name": "Yugoslavia (1920-1992)",
+            "note": "Dissolved into multiple countries, mapped to Serbia"
+        },
+        "SCG": {
+            "iso": "RS",
+            "name": "Serbia and Montenegro",
+            "historical": true,
+            "display_name": "Serbia and Montenegro (1996-2006)",
+            "note": "Split into Serbia and Montenegro in 2006"
+        },
+        "EUN": {
+            "iso": "RU",
+            "name": "Unified Team",
+            "historical": true,
+            "display_name": "Unified Team (1992)",
+            "note": "Former Soviet republics competing together in 1992"
+        },
+        "ROC": {
+            "iso": "RU",
+            "name": "Russian Olympic Committee",
+            "historical": false,
+            "display_name": "ROC (2020)",
+            "note": "Russia competing under Olympic flag"
+        },
+        "OAR": {
+            "iso": "RU",
+            "name": "Olympic Athletes from Russia",
+            "historical": false,
+            "display_name": "OAR (2018)",
+            "note": "Russia competing under Olympic flag"
+        }
+    },
+    "historical_notes": {
+        "USSR": "The Soviet Union dissolved in 1991 into 15 independent countries. For visualization purposes, medals are mapped to Russia as the primary successor state.",
+        "Yugoslavia": "Yugoslavia dissolved in the 1990s into Serbia, Croatia, Slovenia, Bosnia and Herzegovina, Montenegro, North Macedonia, and Kosovo.",
+        "Czechoslovakia": "Peacefully split into Czech Republic and Slovakia on January 1, 1993.",
+        "Germany": "Competed separately as East (GDR) and West (FRG) Germany from 1968-1988, reunified in 1990."
+    }
+}

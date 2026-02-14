@@ -1,0 +1,466 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background: #f5f5f5;
+    color: #333;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+
+header {
+    background: linear-gradient(135deg, #0085C7 0%, #00A651 50%, #EE334E 100%);
+    color: white;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    position: relative;
+}
+
+header::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #0085C7 0%, #FCB131 20%, #000000 40%, #00A651 60%, #EE334E 80%, #0085C7 100%);
+}
+
+header h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.3rem;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+header .subtitle {
+    font-size: 0.9rem;
+    opacity: 0.95;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+}
+
+#map {
+    flex: 1;
+    position: relative;
+    background: linear-gradient(180deg, #8ba5b8 0%, #b8cdd9 50%, #d4e3eb 100%);
+}
+
+.year-control {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.year-control label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-bottom: 0.5rem;
+}
+
+.year-value {
+    font-size: 1.5rem;
+    color: #0085C7;
+    font-weight: 700;
+    line-height: 1.5rem;
+    height: 1.5rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#year-slider {
+    width: 100%;
+    height: 6px;
+    border-radius: 3px;
+    background: linear-gradient(90deg, #e0e0e0 0%, #0085C7 100%);
+    outline: none;
+    -webkit-appearance: none;
+}
+
+#year-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #0085C7;
+    cursor: pointer;
+    transition: all 0.2s;
+    box-shadow: 0 2px 4px rgba(0, 133, 199, 0.3);
+}
+
+#year-slider::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+    background: #006BA6;
+    box-shadow: 0 3px 8px rgba(0, 133, 199, 0.4);
+}
+
+#year-slider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #0085C7;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s;
+    box-shadow: 0 2px 4px rgba(0, 133, 199, 0.3);
+}
+
+#year-slider::-moz-range-thumb:hover {
+    transform: scale(1.2);
+    background: #006BA6;
+    box-shadow: 0 3px 8px rgba(0, 133, 199, 0.4);
+}
+
+.year-markers {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.75rem;
+    color: #666;
+    margin-top: 0.25rem;
+}
+
+/* Info Bar */
+.info-bar {
+    background: white;
+    border-top: 4px solid #0085C7;
+    box-shadow: 0 -2px 12px rgba(0, 0, 0, 0.15);
+    padding: 1.5rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 3rem;
+    z-index: 2;
+    flex-shrink: 0;
+}
+
+.info-section {
+    text-align: center;
+    flex: 0 0 auto;
+}
+
+.legend-section {
+    min-width: 200px;
+}
+
+.year-section {
+    flex: 1 1 auto;
+    max-width: 600px;
+}
+
+.gradient-scale {
+    margin-top: 0.5rem;
+}
+
+.gradient-bar {
+    height: 16px;
+    border-radius: 4px;
+    background: linear-gradient(90deg,
+            #fff7ec 0%,
+            #fee8c8 12.5%,
+            #fdd49e 25%,
+            #fdbb84 37.5%,
+            #fc8d59 50%,
+            #ef6548 62.5%,
+            #d7301f 75%,
+            #b30000 87.5%,
+            #7f0000 100%);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 0.25rem;
+    position: relative;
+}
+
+.tick {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: rgba(0, 0, 0, 0.3);
+    transform: translateX(-1px);
+}
+
+.gradient-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.7rem;
+    color: #666;
+}
+
+.stat-label {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    color: #666;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.5rem;
+}
+
+.stat-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0085C7;
+}
+
+.year-display {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0085C7;
+    margin-bottom: 0.75rem;
+    text-align: center;
+}
+
+.year-range {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.75rem;
+    color: #666;
+    margin-top: 0.5rem;
+}
+
+/* Popup styles */
+.mapboxgl-popup-content {
+    padding: 1rem;
+    min-width: 280px;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    border-top: 3px solid #0085C7;
+}
+
+.mapboxgl-popup-close-button {
+    font-size: 1.5rem;
+    color: #999;
+    padding: 0.5rem;
+    width: 2rem;
+    height: 2rem;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    border-radius: 4px;
+}
+
+.mapboxgl-popup-close-button:hover {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.popup-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    color: #333;
+}
+
+.popup-title .historical-indicator {
+    color: #0085C7;
+    font-size: 1.2rem;
+}
+
+.popup-note {
+    font-size: 0.75rem;
+    color: #666;
+    margin-top: 0.5rem;
+    font-style: italic;
+}
+
+.medal-breakdown {
+    margin-top: 1rem;
+}
+
+.medal-breakdown h4 {
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+    color: #666;
+    font-weight: 600;
+}
+
+.medal-chart {
+    margin-bottom: 0.75rem;
+}
+
+.medal-bar-container {
+    display: flex;
+    height: 30px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 0.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.medal-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #333;
+    transition: all 0.3s;
+}
+
+.medal-bar:hover {
+    filter: brightness(1.1);
+}
+
+.medal-bar.gold {
+    background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
+}
+
+.medal-bar.silver {
+    background: linear-gradient(135deg, #C0C0C0 0%, #A8A8A8 100%);
+}
+
+.medal-bar.bronze {
+    background: linear-gradient(135deg, #CD7F32 0%, #B87333 100%);
+}
+
+.medal-counts {
+    display: flex;
+    justify-content: space-around;
+    font-size: 0.85rem;
+}
+
+.medal-count-item {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.medal-icon {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.medal-icon.gold {
+    background: #FFD700;
+}
+
+.medal-icon.silver {
+    background: #C0C0C0;
+}
+
+.medal-icon.bronze {
+    background: #CD7F32;
+}
+
+.loading,
+.error {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 2rem 3rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    text-align: center;
+    border-top: 4px solid #0085C7;
+}
+
+.error {
+    border: 2px solid #ff4444;
+    color: #cc0000;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.4rem;
+    }
+
+    header .subtitle {
+        font-size: 0.8rem;
+    }
+
+    header {
+        padding: 1rem 1.5rem;
+    }
+
+    .info-bar {
+        flex-direction: column;
+        padding: 1rem;
+        gap: 1rem;
+    }
+
+    .info-section {
+        width: 100%;
+    }
+
+    .legend-section {
+        order: -1;
+        min-width: auto;
+    }
+
+    .year-section {
+        order: 0;
+        max-width: 100%;
+    }
+
+    .stat-label {
+        font-size: 0.7rem;
+        margin-bottom: 0.25rem;
+    }
+
+    .stat-value {
+        font-size: 1.5rem;
+    }
+
+    .year-display {
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .gradient-bar {
+        height: 12px;
+    }
+
+    .gradient-labels {
+        font-size: 0.65rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.2rem;
+    }
+
+    header .subtitle {
+        font-size: 0.75rem;
+    }
+
+    .info-bar {
+        padding: 0.75rem;
+        gap: 0.75rem;
+    }
+
+    .stat-value {
+        font-size: 1.25rem;
+    }
+
+    .year-display {
+        font-size: 1.25rem;
+    }
+
+    .stat-label {
+        font-size: 0.65rem;
+    }
+}

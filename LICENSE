@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Patrick Leonard
+Copyright (c) 2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Data License
+
+The Olympic historical data used in this project is sourced from:
+- Dataset: "120 years of Olympic history: athletes and results"
+- Source: Kaggle (https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+- License: CC0: Public Domain
+
+The data is in the public domain and can be used freely.

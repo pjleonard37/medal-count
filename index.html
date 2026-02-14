@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olympic Medals Map</title>
+
+    <!-- Mapbox GL JS -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.18.0/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v3.18.0/mapbox-gl.css" rel="stylesheet" />
+
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="app">
+        <header>
+            <h1>Olympic Medal Count by Country</h1>
+            <p class="subtitle">Explore Summer ☀️ and Winter ❄️ Olympics medal totals from 1896-2016</p>
+        </header>
+
+        <div id="map"></div>
+
+        <div id="info-bar" class="info-bar">
+            <div class="info-section">
+                <div class="stat-label">Countries</div>
+                <div id="country-count" class="stat-value">—</div>
+            </div>
+
+            <div class="info-section legend-section">
+                <div class="stat-label">Medal Count Scale</div>
+                <div class="gradient-scale">
+                    <div class="gradient-bar">
+                        <div class="tick" style="left: 0%"></div>
+                        <div class="tick" style="left: 25%"></div>
+                        <div class="tick" style="left: 50%"></div>
+                        <div class="tick" style="left: 75%"></div>
+                        <div class="tick" style="left: 100%"></div>
+                    </div>
+                    <div class="gradient-labels">
+                        <span>0</span>
+                        <span id="quarter-medal-count">125</span>
+                        <span id="half-medal-count">250</span>
+                        <span id="three-quarter-medal-count">375</span>
+                        <span id="max-medal-count">500+</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="info-section year-section">
+                <div id="year-display" class="year-display">&#9728;&#65039; 2016</div>
+                <input type="range" id="year-slider" aria-label="Select Olympic year">
+                <div class="year-range">
+                    <span>1896</span>
+                    <span>2016</span>
+                </div>
+            </div>
+
+            <div class="info-section">
+                <div class="stat-label">Total Medals</div>
+                <div id="total-medals" class="stat-value">—</div>
+            </div>
+        </div>
+
+        <div id="loading" class="loading">
+            <p>Loading Olympic data...</p>
+        </div>
+
+        <div id="error" class="error" style="display: none;">
+            <p>Error loading data. Please check console for details.</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
